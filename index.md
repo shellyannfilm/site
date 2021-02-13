@@ -7,14 +7,14 @@
 
 # New Trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SVHy1XUIdRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SVHy1XUIdRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 
 # Zombie Art
 <div class="img-container">
-    <img height="250px" width="auto" src="/site/imgs/shelly_ann.jpg" />
-    <img height="250px" width="auto" src="/site/imgs/the_companion.jpg" />
-    <img height="250px" width="auto" src="/site/imgs/shelly_poster.jpg" />
+    <img height="auto" width="100%" src="/site/imgs/shelly_poster.jpg" />
+    <img height="auto" width="100%" src="/site/imgs/shelly_ann.jpg" />
+    <img height="auto" width="100%" src="/site/imgs/the_companion.jpg" />
 </div>
 
 <br/>
