@@ -51,7 +51,7 @@ Music by Shelly Ann and the Zombie Surf (Peter Almen, Toke Jensen, Mads Vesterag
 # Contact
 Don't be a stranger! Unless you are one of the living dead. In that case, beware!
 
-### Email: shellyannfilms@gmail.com
+### Email: almenpeter@gmail.com
 ### Instagram: [shellyannfilm](https://instagram.com/shellyannfilm) 
 
 <br/>
